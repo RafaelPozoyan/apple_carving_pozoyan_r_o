@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\2dAppleCarvingAlgorithm_pozoyan_r_o-main\2dAppleCarvingAlgorithm_pozoyan_r_o-main\apple_carving\build\CMakeFiles\df73c6fb288dccef1ff97e6a16763693\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B9B9D40E-F063-339B-BD43-0B1432117D8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

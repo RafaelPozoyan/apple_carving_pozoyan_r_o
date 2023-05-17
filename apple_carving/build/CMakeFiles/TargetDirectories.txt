@@ -1,0 +1,3 @@
+D:/2dAppleCarvingAlgorithm_pozoyan_r_o-main/2dAppleCarvingAlgorithm_pozoyan_r_o-main/apple_carving/build/CMakeFiles/ALL_BUILD.dir
+D:/2dAppleCarvingAlgorithm_pozoyan_r_o-main/2dAppleCarvingAlgorithm_pozoyan_r_o-main/apple_carving/build/CMakeFiles/ZERO_CHECK.dir
+D:/2dAppleCarvingAlgorithm_pozoyan_r_o-main/2dAppleCarvingAlgorithm_pozoyan_r_o-main/apple_carving/build/apple_carving/CMakeFiles/apple_carving.dir

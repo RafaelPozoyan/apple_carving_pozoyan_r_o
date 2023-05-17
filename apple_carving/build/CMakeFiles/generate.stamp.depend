@@ -1,0 +1,31 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+C:/Users/pozoy/vcpkg/installed/x64-windows/share/opencv2/OpenCVConfig-version.cmake
+C:/Users/pozoy/vcpkg/installed/x64-windows/share/opencv2/OpenCVConfig.cmake
+C:/Users/pozoy/vcpkg/installed/x64-windows/share/opencv2/OpenCVModules-debug.cmake
+C:/Users/pozoy/vcpkg/installed/x64-windows/share/opencv2/OpenCVModules-release.cmake
+C:/Users/pozoy/vcpkg/installed/x64-windows/share/opencv2/OpenCVModules.cmake
+C:/Users/pozoy/vcpkg/scripts/buildsystems/vcpkg.cmake
+D:/2dAppleCarvingAlgorithm_pozoyan_r_o-main/2dAppleCarvingAlgorithm_pozoyan_r_o-main/apple_carving/CMakeLists.txt
+D:/2dAppleCarvingAlgorithm_pozoyan_r_o-main/2dAppleCarvingAlgorithm_pozoyan_r_o-main/apple_carving/build/CMakeFiles/3.26.0/CMakeCCompiler.cmake
+D:/2dAppleCarvingAlgorithm_pozoyan_r_o-main/2dAppleCarvingAlgorithm_pozoyan_r_o-main/apple_carving/build/CMakeFiles/3.26.0/CMakeCXXCompiler.cmake
+D:/2dAppleCarvingAlgorithm_pozoyan_r_o-main/2dAppleCarvingAlgorithm_pozoyan_r_o-main/apple_carving/build/CMakeFiles/3.26.0/CMakeRCCompiler.cmake
+D:/2dAppleCarvingAlgorithm_pozoyan_r_o-main/2dAppleCarvingAlgorithm_pozoyan_r_o-main/apple_carving/build/CMakeFiles/3.26.0/CMakeSystem.cmake

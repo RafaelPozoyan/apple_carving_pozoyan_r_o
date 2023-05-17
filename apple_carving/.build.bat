@@ -1,0 +1,2 @@
+cmake -S . -B build "-DCMAKE_TOOLCHAIN_FILE=C:/Users/pozoy/vcpkg/scripts/buildsystems/vcpkg.cmake" -DCMAKE_PREFIX_PATH="C:\Users\pozoy\vcpkg\installed\x64-windows\share\opencv4"
+cmake --build ./build --config Release
